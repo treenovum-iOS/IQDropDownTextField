@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ACEADAFD1D9AA30C0089EBED /* IQDropDownTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = ACEADAFB1D9AA30C0089EBED /* IQDropDownTextField.h */; };
+		ACEADAFD1D9AA30C0089EBED /* IQDropDownTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = ACEADAFB1D9AA30C0089EBED /* IQDropDownTextField.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ACEADAFE1D9AA30C0089EBED /* IQDropDownTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEADAFC1D9AA30C0089EBED /* IQDropDownTextField.m */; };
 /* End PBXBuildFile section */
 
@@ -290,6 +290,7 @@
 				ACEADAFA1D9AA2F00089EBED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
